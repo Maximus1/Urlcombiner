@@ -30,13 +30,18 @@ Anstatt die URL zu kopieren, den Browser zu öffnen, die Archiv-Seite aufzurufen
 
 Wenn Ihnen diese App gefällt und Sie die Entwicklung (und meinen Kater) unterstützen möchten, würde ich mich über eine kleine Spende freuen!
 
-[![Spende für Micky](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EBJRLJG3J8YXS)
-
-Wenn Sie auf das Bild klicken, gelangen Sie zur Spendenseite, auf der Sie eine der folgenden Optionen für Micky auswählen können:
+<p>
+  <a href="https://www.paypal.me/mbneedsmoney/5">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
+  </a>
+</p>
+Wenn Sie auf das Paypal Logo klicken, gelangen Sie zur Spendenseite, auf der Sie einen für Sie passenden Betrag Spenden können:
 - Frühstück für Micky (1,00 €)
 - Frühstück + Mittag für Micky (3,00 €)
 - Ein Tag mal keine Mäuse essen (5,00 €)
 - Die Woche ist gerettet (10,00 €)
+
+
 
 ---
 

@@ -36,6 +36,9 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
+        // Setzt den Basisnamen für die APK-Datei. Gradle fügt Build-Typ und Suffix hinzu.
+        setProperty("archivesBaseName", "Urlcombiner-$versionName")
     }
 
     buildTypes {
@@ -48,6 +51,7 @@ android {
             signingConfig = signingConfigs.getByName("release")
         }
     }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11

@@ -30,7 +30,7 @@ Anstatt die URL zu kopieren, den Browser zu öffnen, die Archiv-Seite aufzurufen
 
 Wenn Ihnen diese App gefällt und Sie die Entwicklung (und meinen Kater) unterstützen möchten, würde ich mich über eine kleine Spende freuen!
 
-[![Spende für Micky](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4S8QDQYZ3ETD8)
+[![Spende für Micky](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EBJRLJG3J8YXS)
 
 Wenn Sie auf das Bild klicken, gelangen Sie zur Spendenseite, auf der Sie eine der folgenden Optionen für Micky auswählen können:
 - Frühstück für Micky (1,00 €)

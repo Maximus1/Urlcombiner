@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Urlcombiner</string>
+    <string name="add_new_url">Add new URL</string>
+    <string name="add_new_base_url_title">Add new base URL</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_and_url_must_not_be_empty">Name and URL must not be empty.</string>
+    <string name="delete">Delete</string>
+    <string name="edit_base_url">Edit base URL</string>
+    <string name="edit">Edit</string>
+    <string name="no_base_urls_available">No base URLs available. Please add one first.</string>
+    <string name="opening_url">Opening URL...</string>
+    <string name="select_base_url">Select a base URL</string>
+    <string name="language">Language</string>
+    <string name="could_not_open_url">Could not open URL</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="instructions_body"><b>1. Add URLs:</b> Tap the plus button (+) to add a new base URL (e.g., \'https://archive.ph/\') with a name.\n\n<b>2. Manage Entries:</b> Tap the pencil icon (✏️) to edit an entry, or the trash can (🗑️) to delete it.\n\n<b>3. Combine &amp; Share:</b> In another app (e.g., your browser), go to \'Share\' and select \'UrlCombiner\'. The shared URL will be automatically combined with your base URL and opened in the browser.</string>
+</resources>

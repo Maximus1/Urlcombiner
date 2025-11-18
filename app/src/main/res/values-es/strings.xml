@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Urlcombiner</string>
+    <string name="add_new_url">Añadir nueva URL</string>
+    <string name="add_new_base_url_title">Añadir nueva URL base</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="name_and_url_must_not_be_empty">El nombre y la URL no pueden estar vacíos.</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit_base_url">Editar URL base</string>
+    <string name="edit">Editar</string>
+    <string name="no_base_urls_available">No hay URL base disponibles. Por favor, añada una primero.</string>
+    <string name="opening_url">Abriendo URL...</string>
+    <string name="select_base_url">Seleccione una URL base</string>
+    <string name="language">Idioma</string>
+    <string name="could_not_open_url">No se pudo abrir la URL</string>
+    <string name="instructions_title">Instrucciones</string>
+    <string name="instructions_body"><b>1. Añadir URLs:</b> Toca el botón más (+) para añadir una nueva URL base (p. ej., \'https://archive.ph/\') con un nombre.\n\n<b>2. Gestionar entradas:</b> Toca el icono del lápiz (✏️) para editar una entrada, o el de la papelera (🗑️) para eliminarla.\n\n<b>3. Combinar y Compartir:</b> En otra aplicación (p. ej., tu navegador), ve a \'Compartir\' y selecciona \'UrlCombiner\'. La URL compartida se combinará automáticamente con tu URL base y se abrirá en el navegador.</string>
+</resources>

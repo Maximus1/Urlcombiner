@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Urlcombiner</string>
+    <string name="add_new_url">新しいURLを追加</string>
+    <string name="add_new_base_url_title">新しいベースURLを追加</string>
+    <string name="save">保存</string>
+    <string name="cancel">キャンセル</string>
+    <string name="name_and_url_must_not_be_empty">名前とURLは空にできません。</string>
+    <string name="delete">削除</string>
+    <string name="edit_base_url">ベースURLを編集</string>
+    <string name="edit">編集</string>
+    <string name="no_base_urls_available">利用可能なベースURLがありません。まず追加してください。</string>
+    <string name="opening_url">URLを開いています...</string>
+    <string name="select_base_url">ベースURLを選択</string>
+    <string name="language">言語</string>
+    <string name="could_not_open_url">URLを開けませんでした</string>
+    <string name="instructions_title">手順</string>
+    <string name="instructions_body"><b>1. URLの追加:</b> プラスボタン（+）をタップして、名前付きの新しいベースURL（例: \'https://archive.ph/\'）を追加します。\n\n<b>2. エントリの管理:</b> 鉛筆アイコン（✏️）をタップしてエントリを編集するか、ゴミ箱アイコン（🗑️）をタップして削除します。\n\n<b>3. 結合と共有:</b> 別のアプリ（例: ブラウザ）で[共有]に移動し、[UrlCombiner]を選択します。共有されたURLは、ベースURLと自動的に結合され、ブラウザで開かれます。</string>
+</resources>

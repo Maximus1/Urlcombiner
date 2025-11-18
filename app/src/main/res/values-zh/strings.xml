@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Urlcombiner</string>
+    <string name="add_new_url">添加新網址</string>
+    <string name="add_new_base_url_title">添加新的基本網址</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="name_and_url_must_not_be_empty">名稱和網址不能為空。</string>
+    <string name="delete">刪除</string>
+    <string name="edit_base_url">編輯基本網址</string>
+    <string name="edit">編輯</string>
+    <string name="no_base_urls_available">没有可用的基本URL。请先添加一个。</string>
+    <string name="opening_url">正在打开网址...</string>
+    <string name="select_base_url">选择一个基本URL</string>
+    <string name="language">语言</string>
+    <string name="could_not_open_url">无法打开URL</string>
+    <string name="instructions_title">说明</string>
+    <string name="instructions_body"><b>1. 添加URL：</b>点击加号按钮（+）以添加一个新的基本URL（例如，“\'https://archive.ph/\'”）并命名。\n\n<b>2. 管理条目：</b>点击铅笔图标（✏️）以编辑条目，或点击垃圾桶图标（🗑️）以删除它。\n\n<b>3. 合并和分享：</b>在另一个应用程序（例如您的浏览器）中，转到“分享”并选择“UrlCombiner”。分享的URL将自动与您的基本URL合并并在浏览器中打开。</string>
+</resources>
